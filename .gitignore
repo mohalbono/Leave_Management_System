@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+# Node / Next.js
+node_modules/
+.next/
+# Environment files (no secrets in Git)
+.env
+.env.local
+# OS / editor
+.DS_Store
+.vscode/
